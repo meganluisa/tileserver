@@ -1,0 +1,21 @@
+{
+    "tiles": [
+        "la-tiles/{z}/{x}/{y}.png"
+    ],
+    "name": "",
+    "format": "png",
+    "basename": "la-cminterval.mbtiles",
+    "id": "la-cminterval",
+    "description": "",
+    "version": "1",
+    "type": "baselayer",
+    "minzoom": 11,
+    "maxzoom": 11,
+    "bounds": [
+        -180,
+        -85.05112877980659,
+        180,
+        85.0511287798066
+    ],
+    "tilejson": "2.0.0"
+}
