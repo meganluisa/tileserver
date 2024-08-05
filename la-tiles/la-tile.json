@@ -1,6 +1,6 @@
 {
     "tiles": [
-        "/{z}/{x}/{y}.png"
+        "https://raw.githubusercontent.com/meganluisa/tileserver/main/la-tiles/{z}/{x}/{y}.png"
     ],
     "name": "",
     "format": "png",
