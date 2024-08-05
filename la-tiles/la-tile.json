@@ -1,6 +1,6 @@
 {
     "tiles": [
-        "la-tiles/{z}/{x}/{y}.png"
+        "/{z}/{x}/{y}.png"
     ],
     "name": "",
     "format": "png",
